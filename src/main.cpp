@@ -7,7 +7,7 @@
 
 #include "LAppDelegate.hpp"
 #include <windows.h>
-
+//添加注释 main
 int main()
 {
     // Setting the console character encoding to UTF-8
